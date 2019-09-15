@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/test.js"],"names":["Test"],"mappings":"0FAAA,2BAMeA,UAJF,WACX,OAAO","file":"component---src-pages-test-js-fe5f204e1fafcfc2a912.js","sourcesContent":["import React from 'react'\n\nconst Test = () => {\n  return <p>Hello</p>\n}\n\nexport default Test\n"],"sourceRoot":""}

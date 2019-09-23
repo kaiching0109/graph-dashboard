@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 // import Card from '../components/Card'
-import Menu from '../components/Menu'
+import Menu from '../components/Menu/Menu'
 // import Logo from '../components/Logo'
 import { Logo, Card } from '../components/Base'
 import { BarChart } from '../components/Module'
